@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "helado",
+        "cantidad": 1,
+        "precio": 10.0,
+        "marca": "polet"
+    },
+    {
+        "nombre": "javon",
+        "cantidad": 1,
+        "precio": 5000.0,
+        "marca": "rey"
+    }
+]
